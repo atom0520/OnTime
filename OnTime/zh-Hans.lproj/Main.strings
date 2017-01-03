@@ -1,0 +1,414 @@
+
+/* Class = "UILabel"; text = "（誓言越狠奖励越可能高哦😝）"; ObjectID = "0D8-rN-vzN"; */
+"0D8-rN-vzN.text" = "（誓言越狠奖励越可能高哦😝）";
+
+/* Class = "UILabel"; text = "睡觉"; ObjectID = "0j3-ca-Kvb"; */
+"0j3-ca-Kvb.text" = "睡觉";
+
+/* Class = "UINavigationItem"; title = "有时于行👣－DIY作息计划📆"; ObjectID = "1hB-cI-0qU"; */
+"1hB-cI-0qU.title" = "有时于行👣－DIY作息计划📆";
+
+/* Class = "UIButton"; normalTitle = "🕓"; ObjectID = "2Il-RV-JiA"; */
+"2Il-RV-JiA.normalTitle" = "🕓";
+
+/* Class = "UILabel"; text = "成功率"; ObjectID = "2Q1-YN-EvJ"; */
+"2Q1-YN-EvJ.text" = "成功率";
+
+/* Class = "UILabel"; text = "🗒计划标签"; ObjectID = "3Jj-zH-ohy"; */
+"3Jj-zH-ohy.text" = "🗒计划标签";
+
+/* Class = "UILabel"; text = "SubLabel"; ObjectID = "3KY-OY-1YK"; */
+"3KY-OY-1YK.text" = "SubLabel";
+
+/* Class = "UILabel"; text = " XX岁 "; ObjectID = "3hs-Hn-hEL"; */
+"3hs-Hn-hEL.text" = " XX岁 ";
+
+/* Class = "UILabel"; text = "🔔距离下次签到还有："; ObjectID = "4Ay-ic-pzm"; */
+"4Ay-ic-pzm.text" = "🔔距离下次签到还有：";
+
+/* Class = "UILabel"; text = "+0"; ObjectID = "4hr-bh-lAI"; */
+"4hr-bh-lAI.text" = "+0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5UR-pQ-j60"; */
+"5UR-pQ-j60.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6gU-O2-obN"; */
+"6gU-O2-obN.text" = "0";
+
+/* Class = "UIButton"; normalTitle = " 我准备好啦👌"; ObjectID = "7Kr-D7-PJG"; */
+"7Kr-D7-PJG.normalTitle" = " 我准备好啦👌";
+
+/* Class = "UILabel"; text = "🚩已连续签到天数："; ObjectID = "7Oc-4B-FF5"; */
+"7Oc-4B-FF5.text" = "🚩已连续签到天数：";
+
+/* Class = "UILabel"; text = "我同意并承诺遵守以上所有要求"; ObjectID = "7ss-Qh-N2Z"; */
+"7ss-Qh-N2Z.text" = "我同意并承诺遵守以上所有要求";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9cw-WA-Gbc"; */
+"9cw-WA-Gbc.text" = "Label";
+
+/* Class = "UILabel"; text = "太郁闷了，您当前的魅力值不足以俘获该男神诶 。。。"; ObjectID = "9gx-AF-YOw"; */
+"9gx-AF-YOw.text" = "太郁闷了，您当前的魅力值不足以俘获该男神诶 。。。";
+
+/* Class = "UILabel"; text = "－1"; ObjectID = "9qZ-ma-dap"; */
+"9qZ-ma-dap.text" = "－1";
+
+/* Class = "UILabel"; text = "Headline"; ObjectID = "A5w-Gs-54T"; */
+"A5w-Gs-54T.text" = "Headline";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "A8M-mz-3XS"; */
+"A8M-mz-3XS.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AAA-9H-9Sd"; */
+"AAA-9H-9Sd.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "AcG-AM-5XE"; */
+"AcG-AM-5XE.text" = "0";
+
+/* Class = "UILabel"; text = "法国人—80岁"; ObjectID = "AeE-4w-c49"; */
+"AeE-4w-c49.text" = "法国人—80岁";
+
+/* Class = "UINavigationItem"; title = "有时于行👣－天天有赏签到💰"; ObjectID = "AgY-A1-aYx"; */
+"AgY-A1-aYx.title" = "有时于行👣－天天有赏签到💰";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BKh-xG-3c9"; */
+"BKh-xG-3c9.text" = "Label";
+
+/* Class = "UILabel"; text = "吃晚餐"; ObjectID = "BtM-8E-iwe"; */
+"BtM-8E-iwe.text" = "吃晚餐";
+
+/* Class = "UISegmentedControl"; Buz-pg-uWg.segmentTitles[0] = "已俘获男神"; ObjectID = "Buz-pg-uWg"; */
+"Buz-pg-uWg.segmentTitles[0]" = "已俘获男神";
+
+/* Class = "UISegmentedControl"; Buz-pg-uWg.segmentTitles[1] = "已俘获女神"; ObjectID = "Buz-pg-uWg"; */
+"Buz-pg-uWg.segmentTitles[1]" = "已俘获女神";
+
+/* Class = "UILabel"; text = "中国人—72岁"; ObjectID = "C0U-9M-MGr"; */
+"C0U-9M-MGr.text" = "中国人—72岁";
+
+/* Class = "UILabel"; text = "美国人—78岁"; ObjectID = "C1l-DS-61q"; */
+"C1l-DS-61q.text" = "美国人—78岁";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "C4q-Bx-ZQE"; */
+"C4q-Bx-ZQE.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "❌"; ObjectID = "C6o-sY-88i"; */
+"C6o-sY-88i.normalTitle" = "❌";
+
+/* Class = "UILabel"; text = "Mirror Never Lies To You!"; ObjectID = "C87-29-cfO"; */
+"C87-29-cfO.text" = "Mirror Never Lies To You!";
+
+/* Class = "UIButton"; normalTitle = "开启有时生活"; ObjectID = "Cmy-2O-MAj"; */
+"Cmy-2O-MAj.normalTitle" = "开启有时生活";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "DUb-ut-d8d"; */
+"DUb-ut-d8d.text" = "time";
+
+/* Class = "UILabel"; text = "📝今日签到情况："; ObjectID = "DVg-bu-GQb"; */
+"DVg-bu-GQb.text" = "📝今日签到情况：";
+
+/* Class = "UILabel"; text = "起床"; ObjectID = "DVn-km-d3e"; */
+"DVn-km-d3e.text" = "起床";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FFY-Yz-HgK"; */
+"FFY-Yz-HgK.text" = "Label";
+
+/* Class = "UILabel"; text = "获得奖励"; ObjectID = "HGz-RH-tiP"; */
+"HGz-RH-tiP.text" = "获得奖励";
+
+/* Class = "UIButton"; normalTitle = "❌"; ObjectID = "HSG-XV-o4D"; */
+"HSG-XV-o4D.normalTitle" = "❌";
+
+/* Class = "UIButton"; normalTitle = "❌"; ObjectID = "Hda-oS-Wt4"; */
+"Hda-oS-Wt4.normalTitle" = "❌";
+
+/* Class = "UILabel"; text = "SubLabelSubLabelSubLabelSubLabelSubLabel"; ObjectID = "I6z-t9-4wV"; */
+"I6z-t9-4wV.text" = "SubLabelSubLabelSubLabelSubLabelSubLabel";
+
+/* Class = "UILabel"; text = "Mind Your Clock!"; ObjectID = "IEG-vP-G5q"; */
+"IEG-vP-G5q.text" = "Mind Your Clock!";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "IHd-Ye-mDC"; */
+"IHd-Ye-mDC.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IJE-n0-Ynx"; */
+"IJE-n0-Ynx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IRi-H8-hP8"; */
+"IRi-H8-hP8.text" = "Label";
+
+/* Class = "UILabel"; text = "💖魅力值"; ObjectID = "IyO-Yv-ihm"; */
+"IyO-Yv-ihm.text" = "💖魅力值";
+
+/* Class = "UILabel"; text = "2016-05-12"; ObjectID = "K1Z-vX-ogx"; */
+"K1Z-vX-ogx.text" = "2016-05-12";
+
+/* Class = "UIButton"; normalTitle = "🍱"; ObjectID = "LCJ-cR-x0f"; */
+"LCJ-cR-x0f.normalTitle" = "🍱";
+
+/* Class = "UILabel"; text = "💖当前魅力值："; ObjectID = "MXc-QO-kgG"; */
+"MXc-QO-kgG.text" = "💖当前魅力值：";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "O05-Vv-J7T"; */
+"O05-Vv-J7T.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "如RP、节操、 天地良心啥的……"; ObjectID = "OXx-VV-EbN"; */
+"OXx-VV-EbN.placeholder" = "如RP、节操、 天地良心啥的……";
+
+/* Class = "UILabel"; text = "🕓签到时间："; ObjectID = "P57-Cq-QRa"; */
+"P57-Cq-QRa.text" = "🕓签到时间：";
+
+/* Class = "UILabel"; text = "世界诸国人民平均寿命："; ObjectID = "PFK-lT-IKB"; */
+"PFK-lT-IKB.text" = "世界诸国人民平均寿命：";
+
+/* Class = "UILabel"; text = "+0"; ObjectID = "Q0R-q9-jb2"; */
+"Q0R-q9-jb2.text" = "+0";
+
+/* Class = "UINavigationItem"; title = "有时于行👣－添加DIY计划📝"; ObjectID = "QKm-GI-JMe"; */
+"QKm-GI-JMe.title" = "有时于行👣－添加DIY计划📝";
+
+/* Class = "UINavigationItem"; title = "有时于实🏅－小脸成像😶"; ObjectID = "Qb9-DE-Ss8"; */
+"Qb9-DE-Ss8.title" = "有时于实🏅－小脸成像😶";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "Qq0-dX-s03"; */
+"Qq0-dX-s03.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "活动项目"; ObjectID = "RHU-7Z-Es2"; */
+"RHU-7Z-Es2.text" = "活动项目";
+
+/* Class = "UIButton"; normalTitle = "🍞"; ObjectID = "RrJ-L6-4pK"; */
+"RrJ-L6-4pK.normalTitle" = "🍞";
+
+/* Class = "UILabel"; text = "当前时间："; ObjectID = "RuU-qL-GFu"; */
+"RuU-qL-GFu.text" = "当前时间：";
+
+/* Class = "UISegmentedControl"; Ryp-0D-9al.segmentTitles[0] = " 工作日"; ObjectID = "Ryp-0D-9al"; */
+"Ryp-0D-9al.segmentTitles[0]" = " 工作日";
+
+/* Class = "UISegmentedControl"; Ryp-0D-9al.segmentTitles[1] = "周末"; ObjectID = "Ryp-0D-9al"; */
+"Ryp-0D-9al.segmentTitles[1]" = "周末";
+
+/* Class = "UILabel"; text = "王凯"; ObjectID = "TSr-3t-0xD"; */
+"TSr-3t-0xD.text" = "王凯";
+
+/* Class = "UILabel"; text = "XXX"; ObjectID = "UPJ-fj-AgY"; */
+"UPJ-fj-AgY.text" = "XXX";
+
+/* Class = "UILabel"; text = "起居有时"; ObjectID = "V9Z-36-hE8"; */
+"V9Z-36-hE8.text" = "起居有时";
+
+/* Class = "UILabel"; text = "💖当前魅力值："; ObjectID = "VN9-rA-zxD"; */
+"VN9-rA-zxD.text" = "💖当前魅力值：";
+
+/* Class = "UINavigationItem"; title = "有时于实🏅－爱豆俘获场💘"; ObjectID = "Vqb-AQ-Uif"; */
+"Vqb-AQ-Uif.title" = "有时于实🏅－爱豆俘获场💘";
+
+/* Class = "UILabel"; text = "保证我将对该项活动规定的执行时间签到做到！"; ObjectID = "W9N-id-dTb"; */
+"W9N-id-dTb.text" = "保证我将对该项活动规定的执行时间签到做到！";
+
+/* Class = "UIButton"; normalTitle = "😼我会再接再厉的"; ObjectID = "Wrf-Oo-52B"; */
+"Wrf-Oo-52B.normalTitle" = "😼我会再接再厉的";
+
+/* Class = "UIButton"; selectedTitle = "✓"; ObjectID = "XYW-Al-Gpa"; */
+"XYW-Al-Gpa.selectedTitle" = "✓";
+
+/* Class = "UILabel"; text = "HeadLabelHeadLabelHeadLabelHeadLabelHeadLabel"; ObjectID = "YBY-Eu-IIJ"; */
+"YBY-Eu-IIJ.text" = "HeadLabelHeadLabelHeadLabelHeadLabelHeadLabel";
+
+/* Class = "UITextField"; placeholder = "输入活动标题，如：早起"; ObjectID = "YFR-bC-5KV"; */
+"YFR-bC-5KV.placeholder" = "输入活动标题，如：早起";
+
+/* Class = "UILabel"; text = "🕓计划时间"; ObjectID = "YZl-VV-jBx"; */
+"YZl-VV-jBx.text" = "🕓计划时间";
+
+/* Class = "UILabel"; text = "💖魅力值"; ObjectID = "YoH-kO-Zxh"; */
+"YoH-kO-Zxh.text" = "💖魅力值";
+
+/* Class = "UILabel"; text = "预测得出您未来的寿命为"; ObjectID = "Yv4-FC-0OD"; */
+"Yv4-FC-0OD.text" = "预测得出您未来的寿命为";
+
+/* Class = "UILabel"; text = "+0"; ObjectID = "Yw0-EW-cfx"; */
+"Yw0-EW-cfx.text" = "+0";
+
+/* Class = "UINavigationItem"; title = "有时于实🏅－时知天命👁"; ObjectID = "Zvc-JP-Xrl"; */
+"Zvc-JP-Xrl.title" = "有时于实🏅－时知天命👁";
+
+/* Class = "UIButton"; normalTitle = "发送"; ObjectID = "a0l-AA-aEf"; */
+"a0l-AA-aEf.normalTitle" = "发送";
+
+/* Class = "UILabel"; text = "XX:XX:XX"; ObjectID = "aSx-gI-A7d"; */
+"aSx-gI-A7d.text" = "XX:XX:XX";
+
+/* Class = "UIButton"; normalTitle = "😼生活规律就是这么有魅力！"; ObjectID = "agZ-qS-6wR"; */
+"agZ-qS-6wR.normalTitle" = "😼生活规律就是这么有魅力！";
+
+/* Class = "UILabel"; text = "胡歌"; ObjectID = "bya-Q0-UwF"; */
+"bya-Q0-UwF.text" = "胡歌";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cUY-WO-TkV"; */
+"cUY-WO-TkV.text" = "Label";
+
+/* Class = "UILabel"; text = "俘获"; ObjectID = "cdM-Qx-0iY"; */
+"cdM-Qx-0iY.text" = "俘获";
+
+/* Class = "UIButton"; normalTitle = "🌙"; ObjectID = "cye-Rr-L9F"; */
+"cye-Rr-L9F.normalTitle" = "🌙";
+
+/* Class = "UILabel"; text = "😮您已成功超越：X国人、X国人。。。"; ObjectID = "dec-4b-w5r"; */
+"dec-4b-w5r.text" = "😮您已成功超越：X国人、X国人。。。";
+
+/* Class = "UILabel"; text = "🤔对自己的精神面貌满意吗？"; ObjectID = "e5B-rc-G8v"; */
+"e5B-rc-G8v.text" = "🤔对自己的精神面貌满意吗？";
+
+/* Class = "UILabel"; text = "❤️当前健康值："; ObjectID = "e8V-WB-caG"; */
+"e8V-WB-caG.text" = "❤️当前健康值：";
+
+/* Class = "UILabel"; text = "💛当前快乐值："; ObjectID = "eBG-Zu-g2W"; */
+"eBG-Zu-g2W.text" = "💛当前快乐值：";
+
+/* Class = "UILabel"; text = "📅计划模式"; ObjectID = "f6A-Kd-z7M"; */
+"f6A-Kd-z7M.text" = "📅计划模式";
+
+/* Class = "UILabel"; text = "德国人—79岁"; ObjectID = "ft9-FL-Uuz"; */
+"ft9-FL-Uuz.text" = "德国人—79岁";
+
+/* Class = "UILabel"; text = "activity"; ObjectID = "hQV-UX-FSq"; */
+"hQV-UX-FSq.text" = "activity";
+
+/* Class = "UILabel"; text = "其他"; ObjectID = "hYB-sg-pZD"; */
+"hYB-sg-pZD.text" = "其他";
+
+/* Class = "UILabel"; text = "🎉恭喜签到成功！"; ObjectID = "hhY-Dx-Hdq"; */
+"hhY-Dx-Hdq.text" = "🎉恭喜签到成功！";
+
+/* Class = "UIButton"; normalTitle = "☀️"; ObjectID = "iBj-ta-Bot"; */
+"iBj-ta-Bot.normalTitle" = "☀️";
+
+/* Class = "UIButton"; selectedTitle = "☀️"; ObjectID = "iBj-ta-Bot"; */
+"iBj-ta-Bot.selectedTitle" = "☀️";
+
+/* Class = "UILabel"; text = "🎉恭喜俘获成功！"; ObjectID = "iCG-to-FGp"; */
+"iCG-to-FGp.text" = "🎉恭喜俘获成功！";
+
+/* Class = "UILabel"; text = "❤️健康值"; ObjectID = "iWF-T8-o7F"; */
+"iWF-T8-o7F.text" = "❤️健康值";
+
+/* Class = "UILabel"; text = "💖魅力值"; ObjectID = "igb-XG-0Yb"; */
+"igb-XG-0Yb.text" = "💖魅力值";
+
+/* Class = "UILabel"; text = "📆俘获日期"; ObjectID = "jec-tU-2mw"; */
+"jec-tU-2mw.text" = "📆俘获日期";
+
+/* Class = "UILabel"; text = "未知"; ObjectID = "kfR-Qe-aRf"; */
+"kfR-Qe-aRf.text" = "未知";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "lpL-qo-hwb"; */
+"lpL-qo-hwb.text" = "Activity";
+
+/* Class = "UIButton"; normalTitle = "🍛"; ObjectID = "mq7-s0-BGQ"; */
+"mq7-s0-BGQ.normalTitle" = "🍛";
+
+/* Class = "UILabel"; text = "剩余俘获次数"; ObjectID = "n01-P4-k7H"; */
+"n01-P4-k7H.text" = "剩余俘获次数";
+
+/* Class = "UIButton"; normalTitle = "❓"; ObjectID = "ndp-C1-OMP"; */
+"ndp-C1-OMP.normalTitle" = "❓";
+
+/* Class = "UITextView"; text = "开启有时于行的版块功能前，您需要先与有时app签订一份表达自己对改善生活习惯决心的合约。。。"; ObjectID = "o7e-Xk-If4"; */
+"o7e-Xk-If4.text" = "开启有时于行的版块功能前，您需要先与有时app签订一份表达自己对改善生活习惯决心的合约。。。";
+
+/* Class = "UIButton"; normalTitle = "❌"; ObjectID = "oEg-eT-mnX"; */
+"oEg-eT-mnX.normalTitle" = "❌";
+
+/* Class = "UILabel"; text = "日本人—82岁"; ObjectID = "oHu-Al-dxg"; */
+"oHu-Al-dxg.text" = "日本人—82岁";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oPQ-mu-svp"; */
+"oPQ-mu-svp.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "❌"; ObjectID = "oZD-6j-WSb"; */
+"oZD-6j-WSb.normalTitle" = "❌";
+
+/* Class = "UILabel"; text = "吃午餐"; ObjectID = "oqo-RP-VVn"; */
+"oqo-RP-VVn.text" = "吃午餐";
+
+/* Class = "UILabel"; text = "🔔开启提醒"; ObjectID = "pI5-he-y95"; */
+"pI5-he-y95.text" = "🔔开启提醒";
+
+/* Class = "UIButton"; normalTitle = "签到领赏"; ObjectID = "pSG-sQ-urP"; */
+"pSG-sQ-urP.normalTitle" = "签到领赏";
+
+/* Class = "UILabel"; text = "吃早餐"; ObjectID = "pTM-qU-rLl"; */
+"pTM-qU-rLl.text" = "吃早餐";
+
+/* Class = "UILabel"; text = "✊我以"; ObjectID = "r6l-mH-JgA"; */
+"r6l-mH-JgA.text" = "✊我以";
+
+/* Class = "UILabel"; text = "阅读状态：未阅读"; ObjectID = "rOG-9W-OFG"; */
+"rOG-9W-OFG.text" = "阅读状态：未阅读";
+
+/* Class = "UILabel"; text = "英国人—79岁"; ObjectID = "rza-dn-cuo"; */
+"rza-dn-cuo.text" = "英国人—79岁";
+
+/* Class = "UIButton"; normalTitle = "🕓"; ObjectID = "sLn-ZK-vne"; */
+"sLn-ZK-vne.normalTitle" = "🕓";
+
+/* Class = "UITextField"; placeholder = "请输入你的规律生活决心誓言。。。"; ObjectID = "svC-TB-ouX"; */
+"svC-TB-ouX.placeholder" = "请输入你的规律生活决心誓言。。。";
+
+/* Class = "UILabel"; text = "HeadLabel"; ObjectID = "tg3-eB-ybP"; */
+"tg3-eB-ybP.text" = "HeadLabel";
+
+/* Class = "UILabel"; text = "根据您当前的❤️健康值，"; ObjectID = "tox-df-4kZ"; */
+"tox-df-4kZ.text" = "根据您当前的❤️健康值，";
+
+/* Class = "UIButton"; normalTitle = "💃🏻女神俘获场"; ObjectID = "u1n-i2-hRj"; */
+"u1n-i2-hRj.normalTitle" = "💃🏻女神俘获场";
+
+/* Class = "UILabel"; text = "😼留下一句表决心的誓言吧："; ObjectID = "uHT-cS-cMy"; */
+"uHT-cS-cMy.text" = "😼留下一句表决心的誓言吧：";
+
+/* Class = "UIButton"; normalTitle = "😤我要从此作息规律提升魅力!"; ObjectID = "uPh-pF-LnI"; */
+"uPh-pF-LnI.normalTitle" = "😤我要从此作息规律提升魅力!";
+
+/* Class = "UILabel"; text = "Mind Your Clock!"; ObjectID = "uxA-RN-6kC"; */
+"uxA-RN-6kC.text" = "Mind Your Clock!";
+
+/* Class = "UILabel"; text = "💛快乐值"; ObjectID = "v9K-L4-OSh"; */
+"v9K-L4-OSh.text" = "💛快乐值";
+
+/* Class = "UIBarButtonItem"; title = "存储"; ObjectID = "vVv-Vj-O0y"; */
+"vVv-Vj-O0y.title" = "存储";
+
+/* Class = "UIButton"; normalTitle = "🚶🏻男神俘获场"; ObjectID = "vWq-XN-D6S"; */
+"vWq-XN-D6S.normalTitle" = "🚶🏻男神俘获场";
+
+/* Class = "UILabel"; text = "剩余俘获次数："; ObjectID = "vXM-dB-OXo"; */
+"vXM-dB-OXo.text" = "剩余俘获次数：";
+
+/* Class = "UITextView"; text = "xx年xx月xx日xx时，张某于xx小区猝死。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。"; ObjectID = "vjj-0d-uxz"; */
+"vjj-0d-uxz.text" = "xx年xx月xx日xx时，张某于xx小区猝死。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。";
+
+/* Class = "UILabel"; text = "推荐活动："; ObjectID = "vrt-TK-7pP"; */
+"vrt-TK-7pP.text" = "推荐活动：";
+
+/* Class = "UILabel"; text = "😰俘获失败 |||"; ObjectID = "w1v-eh-PbH"; */
+"w1v-eh-PbH.text" = "😰俘获失败 |||";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "wRt-rM-NMW"; */
+"wRt-rM-NMW.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "☀️"; ObjectID = "wTm-oT-8Tj"; */
+"wTm-oT-8Tj.text" = "☀️";
+
+/* Class = "UINavigationItem"; title = "有时于行👣－健康承诺协议📜"; ObjectID = "wwb-EZ-pk4"; */
+"wwb-EZ-pk4.title" = "有时于行👣－健康承诺协议📜";
+
+/* Class = "UILabel"; text = "👼🏻"; ObjectID = "xcw-yc-mn9"; */
+"xcw-yc-mn9.text" = "👼🏻";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "yQQ-Bg-vCM"; */
+"yQQ-Bg-vCM.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "☀️"; ObjectID = "zZu-Ua-5zV"; */
+"zZu-Ua-5zV.text" = "☀️";

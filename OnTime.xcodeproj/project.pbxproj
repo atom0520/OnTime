@@ -1,0 +1,461 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5C1EFA661CF1BCCD0051F89D /* PlanSetViewNotificationSetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1EFA651CF1BCCD0051F89D /* PlanSetViewNotificationSetCell.swift */; };
+		5C3836761CF0134A008B0C1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C3836751CF0134A008B0C1B /* Assets.xcassets */; };
+		5C63DF001CE9A7B800FBDF26 /* AppearanceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C63DEFF1CE9A7B800FBDF26 /* AppearanceViewController.swift */; };
+		5C6BC0941CEC2ECF006EA0B9 /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6BC0931CEC2ECF006EA0B9 /* ClockView.swift */; };
+		5C704EA11CE14FF900221EF0 /* BeginRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C704EA01CE14FF900221EF0 /* BeginRootViewController.swift */; };
+		5C704EA31CE1500A00221EF0 /* BeginPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C704EA21CE1500A00221EF0 /* BeginPageViewController.swift */; };
+		5C704EA51CE151CD00221EF0 /* BeginViewControllerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C704EA41CE151CD00221EF0 /* BeginViewControllerModel.swift */; };
+		5C7146F91CE1FEDD009905B4 /* CircleMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7146F41CE1FEDD009905B4 /* CircleMenu.swift */; };
+		5C7146FA1CE1FEDD009905B4 /* CircleMenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7146F61CE1FEDD009905B4 /* CircleMenuButton.swift */; };
+		5C7146FB1CE1FEDD009905B4 /* CircleMenuLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7146F81CE1FEDD009905B4 /* CircleMenuLoader.swift */; };
+		5C7146FD1CE205B7009905B4 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7146FC1CE205B7009905B4 /* HomeViewController.swift */; };
+		5C7426891CE4DE7C00C2E51D /* PatternSetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7426881CE4DE7C00C2E51D /* PatternSetView.swift */; };
+		5C74268B1CE4E56300C2E51D /* PlanSetViewPatternSetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C74268A1CE4E56300C2E51D /* PlanSetViewPatternSetCell.swift */; };
+		5C7FCF131CE4E9D100B9EEE5 /* TimeSetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7FCF121CE4E9D100B9EEE5 /* TimeSetView.swift */; };
+		5C80EA8F1CE8D11B00B349FB /* PlanSetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C80EA8E1CE8D11B00B349FB /* PlanSetViewController.swift */; };
+		5C80EA911CE8D12E00B349FB /* PlanSetViewTimeSetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C80EA901CE8D12E00B349FB /* PlanSetViewTimeSetCell.swift */; };
+		5C80EA931CE8D13400B349FB /* PlanSetViewActivitySetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C80EA921CE8D13400B349FB /* PlanSetViewActivitySetCell.swift */; };
+		5C80EA951CE8D14300B349FB /* PlanSetViewLabelSetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C80EA941CE8D14300B349FB /* PlanSetViewLabelSetCell.swift */; };
+		5C80EA971CE8D14B00B349FB /* CheckInPopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C80EA961CE8D14B00B349FB /* CheckInPopupView.swift */; };
+		5C824FC41CEAE2D100E61E84 /* ClockDialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C824FC31CEAE2D100E61E84 /* ClockDialView.swift */; };
+		5C824FC61CEAE2E200E61E84 /* ClockHandView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C824FC51CEAE2E200E61E84 /* ClockHandView.swift */; };
+		5C89E9991E13EC570011BBD8 /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C89E9981E13EC570011BBD8 /* Global.swift */; };
+		5C8A0D0C1CE62ACA00F33DA1 /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8A0D0B1CE62ACA00F33DA1 /* FaceView.swift */; };
+		5C8B85521CE475FC0093180A /* PlanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8B85511CE475FC0093180A /* PlanViewController.swift */; };
+		5C8FE38E1D6203740072705A /* ConsultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8FE38D1D6203740072705A /* ConsultViewController.swift */; };
+		5CA768961CDBA7FC002C7C02 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA768951CDBA7FC002C7C02 /* AppDelegate.swift */; };
+		5CA7689B1CDBA7FC002C7C02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CA768991CDBA7FC002C7C02 /* Main.storyboard */; };
+		5CA768A01CDBA7FC002C7C02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CA7689E1CDBA7FC002C7C02 /* LaunchScreen.storyboard */; };
+		5CBA855C1CE6CE4E000C0DFF /* AppearancePromptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBA855B1CE6CE4E000C0DFF /* AppearancePromptViewController.swift */; };
+		5CCFA0C01D08E72A0007C2B4 /* FloatingCircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CCFA0BF1D08E72A0007C2B4 /* FloatingCircleButton.swift */; };
+		5CCFA0C21D08EF5E0007C2B4 /* FloatingCircleAnimatedTransitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CCFA0C11D08EF5E0007C2B4 /* FloatingCircleAnimatedTransitioning.swift */; };
+		5CEBD8FC1CED8761005B47D5 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEBD8FB1CED8761005B47D5 /* DataManager.swift */; };
+		5CF07F861CEC6EB500CBB20D /* TimeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CF07F851CEC6EB500CBB20D /* TimeManager.swift */; };
+		5CF217351CE5610000BD804A /* PlanTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CF217341CE5610000BD804A /* PlanTableViewCell.swift */; };
+		5CFFE7E21CE5A9370059C9C8 /* CheckInRewardPopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFFE7E11CE5A9370059C9C8 /* CheckInRewardPopupView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5C1EFA651CF1BCCD0051F89D /* PlanSetViewNotificationSetCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanSetViewNotificationSetCell.swift; sourceTree = "<group>"; };
+		5C3836751CF0134A008B0C1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5C63DEFF1CE9A7B800FBDF26 /* AppearanceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppearanceViewController.swift; sourceTree = "<group>"; };
+		5C6BC0931CEC2ECF006EA0B9 /* ClockView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
+		5C704EA01CE14FF900221EF0 /* BeginRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeginRootViewController.swift; sourceTree = "<group>"; };
+		5C704EA21CE1500A00221EF0 /* BeginPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeginPageViewController.swift; sourceTree = "<group>"; };
+		5C704EA41CE151CD00221EF0 /* BeginViewControllerModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeginViewControllerModel.swift; sourceTree = "<group>"; };
+		5C7146F41CE1FEDD009905B4 /* CircleMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleMenu.swift; sourceTree = "<group>"; };
+		5C7146F61CE1FEDD009905B4 /* CircleMenuButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleMenuButton.swift; sourceTree = "<group>"; };
+		5C7146F81CE1FEDD009905B4 /* CircleMenuLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleMenuLoader.swift; sourceTree = "<group>"; };
+		5C7146FC1CE205B7009905B4 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		5C7426881CE4DE7C00C2E51D /* PatternSetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatternSetView.swift; sourceTree = "<group>"; };
+		5C74268A1CE4E56300C2E51D /* PlanSetViewPatternSetCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanSetViewPatternSetCell.swift; sourceTree = "<group>"; };
+		5C7FCF121CE4E9D100B9EEE5 /* TimeSetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeSetView.swift; sourceTree = "<group>"; };
+		5C80EA8E1CE8D11B00B349FB /* PlanSetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanSetViewController.swift; sourceTree = "<group>"; };
+		5C80EA901CE8D12E00B349FB /* PlanSetViewTimeSetCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanSetViewTimeSetCell.swift; sourceTree = "<group>"; };
+		5C80EA921CE8D13400B349FB /* PlanSetViewActivitySetCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanSetViewActivitySetCell.swift; sourceTree = "<group>"; };
+		5C80EA941CE8D14300B349FB /* PlanSetViewLabelSetCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanSetViewLabelSetCell.swift; sourceTree = "<group>"; };
+		5C80EA961CE8D14B00B349FB /* CheckInPopupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckInPopupView.swift; sourceTree = "<group>"; };
+		5C81051B1D6681D300385EBB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		5C81051C1D6681D300385EBB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		5C824FC31CEAE2D100E61E84 /* ClockDialView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockDialView.swift; sourceTree = "<group>"; };
+		5C824FC51CEAE2E200E61E84 /* ClockHandView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClockHandView.swift; sourceTree = "<group>"; };
+		5C89E9981E13EC570011BBD8 /* Global.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Global.swift; sourceTree = "<group>"; };
+		5C8A0D0B1CE62ACA00F33DA1 /* FaceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
+		5C8B85511CE475FC0093180A /* PlanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanViewController.swift; sourceTree = "<group>"; };
+		5C8FE38D1D6203740072705A /* ConsultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConsultViewController.swift; sourceTree = "<group>"; };
+		5CA768921CDBA7FC002C7C02 /* OnTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5CA768951CDBA7FC002C7C02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5CA7689A1CDBA7FC002C7C02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5CA7689F1CDBA7FC002C7C02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5CA768A11CDBA7FC002C7C02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CBA855B1CE6CE4E000C0DFF /* AppearancePromptViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppearancePromptViewController.swift; sourceTree = "<group>"; };
+		5CCFA0BF1D08E72A0007C2B4 /* FloatingCircleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatingCircleButton.swift; sourceTree = "<group>"; };
+		5CCFA0C11D08EF5E0007C2B4 /* FloatingCircleAnimatedTransitioning.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatingCircleAnimatedTransitioning.swift; sourceTree = "<group>"; };
+		5CEBD8FB1CED8761005B47D5 /* DataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		5CF07F851CEC6EB500CBB20D /* TimeManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeManager.swift; sourceTree = "<group>"; };
+		5CF217341CE5610000BD804A /* PlanTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanTableViewCell.swift; sourceTree = "<group>"; };
+		5CFFE7E11CE5A9370059C9C8 /* CheckInRewardPopupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckInRewardPopupView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5CA7688F1CDBA7FC002C7C02 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5C7146F31CE1FEDD009905B4 /* CircleMenuLib */ = {
+			isa = PBXGroup;
+			children = (
+				5C7146F41CE1FEDD009905B4 /* CircleMenu.swift */,
+				5C7146F51CE1FEDD009905B4 /* CircleMenuButton */,
+				5C7146F71CE1FEDD009905B4 /* CircleMenuLoader */,
+			);
+			path = CircleMenuLib;
+			sourceTree = "<group>";
+		};
+		5C7146F51CE1FEDD009905B4 /* CircleMenuButton */ = {
+			isa = PBXGroup;
+			children = (
+				5C7146F61CE1FEDD009905B4 /* CircleMenuButton.swift */,
+			);
+			path = CircleMenuButton;
+			sourceTree = "<group>";
+		};
+		5C7146F71CE1FEDD009905B4 /* CircleMenuLoader */ = {
+			isa = PBXGroup;
+			children = (
+				5C7146F81CE1FEDD009905B4 /* CircleMenuLoader.swift */,
+			);
+			path = CircleMenuLoader;
+			sourceTree = "<group>";
+		};
+		5CA768891CDBA7FC002C7C02 = {
+			isa = PBXGroup;
+			children = (
+				5C7146F31CE1FEDD009905B4 /* CircleMenuLib */,
+				5CA768941CDBA7FC002C7C02 /* OnTime */,
+				5CA768931CDBA7FC002C7C02 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5CA768931CDBA7FC002C7C02 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5CA768921CDBA7FC002C7C02 /* OnTime.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5CA768941CDBA7FC002C7C02 /* OnTime */ = {
+			isa = PBXGroup;
+			children = (
+				5C704EA01CE14FF900221EF0 /* BeginRootViewController.swift */,
+				5C704EA41CE151CD00221EF0 /* BeginViewControllerModel.swift */,
+				5C704EA21CE1500A00221EF0 /* BeginPageViewController.swift */,
+				5C7146FC1CE205B7009905B4 /* HomeViewController.swift */,
+				5C6BC0931CEC2ECF006EA0B9 /* ClockView.swift */,
+				5C824FC31CEAE2D100E61E84 /* ClockDialView.swift */,
+				5C824FC51CEAE2E200E61E84 /* ClockHandView.swift */,
+				5C8FE38D1D6203740072705A /* ConsultViewController.swift */,
+				5C8B85511CE475FC0093180A /* PlanViewController.swift */,
+				5CF217341CE5610000BD804A /* PlanTableViewCell.swift */,
+				5C80EA961CE8D14B00B349FB /* CheckInPopupView.swift */,
+				5CFFE7E11CE5A9370059C9C8 /* CheckInRewardPopupView.swift */,
+				5C80EA8E1CE8D11B00B349FB /* PlanSetViewController.swift */,
+				5C80EA921CE8D13400B349FB /* PlanSetViewActivitySetCell.swift */,
+				5C80EA941CE8D14300B349FB /* PlanSetViewLabelSetCell.swift */,
+				5C74268A1CE4E56300C2E51D /* PlanSetViewPatternSetCell.swift */,
+				5C80EA901CE8D12E00B349FB /* PlanSetViewTimeSetCell.swift */,
+				5C1EFA651CF1BCCD0051F89D /* PlanSetViewNotificationSetCell.swift */,
+				5C7426881CE4DE7C00C2E51D /* PatternSetView.swift */,
+				5C7FCF121CE4E9D100B9EEE5 /* TimeSetView.swift */,
+				5C63DEFF1CE9A7B800FBDF26 /* AppearanceViewController.swift */,
+				5C8A0D0B1CE62ACA00F33DA1 /* FaceView.swift */,
+				5CBA855B1CE6CE4E000C0DFF /* AppearancePromptViewController.swift */,
+				5CF07F851CEC6EB500CBB20D /* TimeManager.swift */,
+				5CEBD8FB1CED8761005B47D5 /* DataManager.swift */,
+				5CCFA0C11D08EF5E0007C2B4 /* FloatingCircleAnimatedTransitioning.swift */,
+				5CCFA0BF1D08E72A0007C2B4 /* FloatingCircleButton.swift */,
+				5C89E9981E13EC570011BBD8 /* Global.swift */,
+				5CA768951CDBA7FC002C7C02 /* AppDelegate.swift */,
+				5CA768991CDBA7FC002C7C02 /* Main.storyboard */,
+				5C3836751CF0134A008B0C1B /* Assets.xcassets */,
+				5CA7689E1CDBA7FC002C7C02 /* LaunchScreen.storyboard */,
+				5CA768A11CDBA7FC002C7C02 /* Info.plist */,
+			);
+			path = OnTime;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5CA768911CDBA7FC002C7C02 /* OnTime */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5CA768A41CDBA7FC002C7C02 /* Build configuration list for PBXNativeTarget "OnTime" */;
+			buildPhases = (
+				5CA7688E1CDBA7FC002C7C02 /* Sources */,
+				5CA7688F1CDBA7FC002C7C02 /* Frameworks */,
+				5CA768901CDBA7FC002C7C02 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OnTime;
+			productName = OnTime;
+			productReference = 5CA768921CDBA7FC002C7C02 /* OnTime.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5CA7688A1CDBA7FC002C7C02 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = Atom;
+				TargetAttributes = {
+					5CA768911CDBA7FC002C7C02 = {
+						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = 2PS54PBEZ7;
+						LastSwiftMigration = 0800;
+					};
+				};
+			};
+			buildConfigurationList = 5CA7688D1CDBA7FC002C7C02 /* Build configuration list for PBXProject "OnTime" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5CA768891CDBA7FC002C7C02;
+			productRefGroup = 5CA768931CDBA7FC002C7C02 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5CA768911CDBA7FC002C7C02 /* OnTime */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5CA768901CDBA7FC002C7C02 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5CA768A01CDBA7FC002C7C02 /* LaunchScreen.storyboard in Resources */,
+				5C3836761CF0134A008B0C1B /* Assets.xcassets in Resources */,
+				5CA7689B1CDBA7FC002C7C02 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5CA7688E1CDBA7FC002C7C02 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5C80EA951CE8D14300B349FB /* PlanSetViewLabelSetCell.swift in Sources */,
+				5C704EA11CE14FF900221EF0 /* BeginRootViewController.swift in Sources */,
+				5C7FCF131CE4E9D100B9EEE5 /* TimeSetView.swift in Sources */,
+				5C7426891CE4DE7C00C2E51D /* PatternSetView.swift in Sources */,
+				5C7146F91CE1FEDD009905B4 /* CircleMenu.swift in Sources */,
+				5CF217351CE5610000BD804A /* PlanTableViewCell.swift in Sources */,
+				5CCFA0C01D08E72A0007C2B4 /* FloatingCircleButton.swift in Sources */,
+				5C704EA31CE1500A00221EF0 /* BeginPageViewController.swift in Sources */,
+				5C89E9991E13EC570011BBD8 /* Global.swift in Sources */,
+				5C80EA8F1CE8D11B00B349FB /* PlanSetViewController.swift in Sources */,
+				5CFFE7E21CE5A9370059C9C8 /* CheckInRewardPopupView.swift in Sources */,
+				5C704EA51CE151CD00221EF0 /* BeginViewControllerModel.swift in Sources */,
+				5CA768961CDBA7FC002C7C02 /* AppDelegate.swift in Sources */,
+				5C1EFA661CF1BCCD0051F89D /* PlanSetViewNotificationSetCell.swift in Sources */,
+				5C7146FA1CE1FEDD009905B4 /* CircleMenuButton.swift in Sources */,
+				5C6BC0941CEC2ECF006EA0B9 /* ClockView.swift in Sources */,
+				5C7146FD1CE205B7009905B4 /* HomeViewController.swift in Sources */,
+				5C80EA931CE8D13400B349FB /* PlanSetViewActivitySetCell.swift in Sources */,
+				5C824FC41CEAE2D100E61E84 /* ClockDialView.swift in Sources */,
+				5CCFA0C21D08EF5E0007C2B4 /* FloatingCircleAnimatedTransitioning.swift in Sources */,
+				5C74268B1CE4E56300C2E51D /* PlanSetViewPatternSetCell.swift in Sources */,
+				5C8FE38E1D6203740072705A /* ConsultViewController.swift in Sources */,
+				5C80EA971CE8D14B00B349FB /* CheckInPopupView.swift in Sources */,
+				5C7146FB1CE1FEDD009905B4 /* CircleMenuLoader.swift in Sources */,
+				5CF07F861CEC6EB500CBB20D /* TimeManager.swift in Sources */,
+				5C63DF001CE9A7B800FBDF26 /* AppearanceViewController.swift in Sources */,
+				5CBA855C1CE6CE4E000C0DFF /* AppearancePromptViewController.swift in Sources */,
+				5C824FC61CEAE2E200E61E84 /* ClockHandView.swift in Sources */,
+				5C8B85521CE475FC0093180A /* PlanViewController.swift in Sources */,
+				5CEBD8FC1CED8761005B47D5 /* DataManager.swift in Sources */,
+				5C80EA911CE8D12E00B349FB /* PlanSetViewTimeSetCell.swift in Sources */,
+				5C8A0D0C1CE62ACA00F33DA1 /* FaceView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5CA768991CDBA7FC002C7C02 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5CA7689A1CDBA7FC002C7C02 /* Base */,
+				5C81051B1D6681D300385EBB /* zh-Hans */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5CA7689E1CDBA7FC002C7C02 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5CA7689F1CDBA7FC002C7C02 /* Base */,
+				5C81051C1D6681D300385EBB /* zh-Hans */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5CA768A21CDBA7FC002C7C02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5CA768A31CDBA7FC002C7C02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5CA768A51CDBA7FC002C7C02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2PS54PBEZ7;
+				INFOPLIST_FILE = OnTime/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Atom.OnTime;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5CA768A61CDBA7FC002C7C02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2PS54PBEZ7;
+				INFOPLIST_FILE = OnTime/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Atom.OnTime;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_VERSION = 2.3;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5CA7688D1CDBA7FC002C7C02 /* Build configuration list for PBXProject "OnTime" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5CA768A21CDBA7FC002C7C02 /* Debug */,
+				5CA768A31CDBA7FC002C7C02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5CA768A41CDBA7FC002C7C02 /* Build configuration list for PBXNativeTarget "OnTime" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5CA768A51CDBA7FC002C7C02 /* Debug */,
+				5CA768A61CDBA7FC002C7C02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5CA7688A1CDBA7FC002C7C02 /* Project object */;
+}
